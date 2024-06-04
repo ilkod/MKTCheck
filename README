@@ -1,0 +1,5 @@
+Application for monitoring a site for tennis courts reservations.
+
+Application checks next four days from the current dates and send an email if there are some free courts between 5PM and 8:30PM.
+
+In order to run this application locally don't forget to insert your emails and password before. 
